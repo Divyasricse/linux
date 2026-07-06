@@ -29,7 +29,14 @@ drwxr-xr-x
 
 
 3          -> Number of links
+
+
+
 idsldtst   -> Owner
+
+
+
+
 mwis       -> Group
 228        -> Size (bytes)
 Sep 12 2023-> Last modified date
