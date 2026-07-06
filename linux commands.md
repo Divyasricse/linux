@@ -19,9 +19,15 @@ file names in ascending order
 
 drwxr-xr-x
 │││
+
+
 ││└── Permissions
 │└──── Directory (d)
 └───── File type
+
+
+
+
 3          -> Number of links
 idsldtst   -> Owner
 mwis       -> Group
