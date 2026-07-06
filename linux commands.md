@@ -1,6 +1,10 @@
 **Basic commands:**
 
 1.pwd:The pwd command is used to display the current working directory or identify your current location in the file system.
+
+
+
+
 2.ls(list):Displays only file and directory names.
 
 <img width="1640" height="59" alt="image" src="https://github.com/user-attachments/assets/cff9697b-14b5-483f-a5fa-fc7fff4bff52" />
