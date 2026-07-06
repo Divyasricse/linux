@@ -14,6 +14,9 @@ file names in ascending order
 
 <img width="569" height="411" alt="image" src="https://github.com/user-attachments/assets/050a67b8-b142-4192-b31d-9c0ed9bb5f6b" />
 
+
+
+
 drwxr-xr-x
 │││
 ││└── Permissions
