@@ -91,9 +91,11 @@ command:curl -o [file_name] [URL...]
 
 16.du:du command is used to check disk usage space.
 
+command:du -sh
+
 17.df:df command is used to check the available disk space in system.
 
-command:df -h
+command:df -h .
 
 18.ifconfig :it is used to view the information about your network interface.
 you will check the ip address from here
