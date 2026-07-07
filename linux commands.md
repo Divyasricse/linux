@@ -194,9 +194,6 @@ others cannot access it either
 
 
 
-
-<img width="488" height="691" alt="image" src="https://github.com/user-attachments/assets/b33af6f3-ff1a-4dca-8d3d-1348fa4a8e1a" />
-
 2. chmod (Change Mode)
 This command is used to change the permission of file and directory.
 
