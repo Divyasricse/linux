@@ -188,6 +188,13 @@ others cannot access it either
 <img width="391" height="191" alt="image" src="https://github.com/user-attachments/assets/ec450bb4-e144-4ed2-9ba7-48f9fb266b1c" />
 
 
+
+
+
+
+
+
+
 <img width="488" height="691" alt="image" src="https://github.com/user-attachments/assets/b33af6f3-ff1a-4dca-8d3d-1348fa4a8e1a" />
 
 2. chmod (Change Mode)
