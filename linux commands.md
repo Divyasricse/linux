@@ -129,6 +129,90 @@ command:mkdir gfg{1..3}
 
 **For Creating Files **
 
+Command	Purpose	Example
+a.touch	Creates an empty file	touch file.txt
+b.echo	Creates a file with content	echo "Hello" > hello.txt
+c.cat	Creates/writes to a file via input	cat > notes.txt (Ctrl + D to save)
+d.nano	Opens a simple terminal editor	nano file.txt
+e.vi / vim	creates and Opens a powerful terminal editor	vi file.txt
+
+**Removing Files and Directories **
+
+a.For removing a directory and its contents
+command:rm -rvf gfg
+
+**Renaming Files and Directories **
+
+a.The mv command in Linux is used to rename files or directories (and also to move them).
+
+
+command:mv gfg gfg-devop
+
+<img width="773" height="185" alt="image" src="https://github.com/user-attachments/assets/8f43a220-f780-4f92-ba37-a6a1518391d9" />
+
+
+**Process Management**
+
+1.ps : ps command displays currently running processes.
+
+command:ps aux
+
+2.top:The top command is used for memory monitoring. It shows a real-time view of system processes.
+
+3.kill:The kill command is used to terminate a process using its PID.
+
+**Linux File System Permission**
+
+In Linux, file and directory permissions are used to improve system security.
+
+There are three main types of permissions:
+
+Read (r): View file contents
+Write (w): Modify file contents
+Execute (x): Run a file or access a directory
+Permissions are assigned to three categories of users:
+
+User (u): Owner of the file
+Group (g): Users who are part of the file’s group
+Others (o): All other users
+Example:
+
+If a file has read permission only for the user, then:
+
+The user can read the file
+The group cannot access it
+others cannot access it either
+
+1. ls -ld:It is used to check the permission of directory
+
+<img width="391" height="191" alt="image" src="https://github.com/user-attachments/assets/ec450bb4-e144-4ed2-9ba7-48f9fb266b1c" />
+
+
+<img width="488" height="691" alt="image" src="https://github.com/user-attachments/assets/b33af6f3-ff1a-4dca-8d3d-1348fa4a8e1a" />
+
+2. chmod (Change Mode)
+This command is used to change the permission of file and directory.
+
+command:chmod [permissions] filename
+permission:700
+
+3. Grep (Global Regular Expression Print)
+ It filter and searches a file for a particular pattern of characters and displays all lines that contain the pattern.
+
+4.tail
+The tail command is used to display the last few lines of one or more text files.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
