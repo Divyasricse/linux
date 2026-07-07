@@ -101,6 +101,41 @@ you will check the ip address from here
 19.ip
 
 
+**Creating Files and Directories**
+
+**1.For Creating Directories**
+a.Creating a single directory
+command:mkdir GFG
+
+<img width="661" height="181" alt="image" src="https://github.com/user-attachments/assets/6655522a-84d9-4123-8063-ead24eb83c3a" />
+
+
+b.Create Multiple Directories
+command:mkdir GFG1 GFG2 GFG3
+
+<img width="365" height="62" alt="image" src="https://github.com/user-attachments/assets/a3b0daab-9644-4574-b098-fa8a0170523b" />
+
+
+c.Create Nested Directories (directories inside directories)
+command:mkdir -p /GFG/GFG1/GFG2
+<img width="363" height="174" alt="image" src="https://github.com/user-attachments/assets/d8e7afdf-e838-45b2-b06d-b2d32eb3dc3a" />
+
+d.For creating a series of numbered directories.
+command:mkdir gfg{1..3}
+
+<img width="368" height="63" alt="image" src="https://github.com/user-attachments/assets/13f8d9cf-d526-4073-aa9b-71f3a681dcd1" />
+
+**For Creating Files **
+
+
+
+
+
+
+
+
+
+
 
 
 
