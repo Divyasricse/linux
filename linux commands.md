@@ -207,6 +207,13 @@ permission:700
 4.tail
 The tail command is used to display the last few lines of one or more text files.
 
+<img width="818" height="398" alt="image" src="https://github.com/user-attachments/assets/ef8acf6c-0985-4e78-8426-7a0efed207a0" />
+
+here Ist i logged with my user account :user@host name 
+next i changes user with sudo su - vflaser:vflaser@host name
+after hostname we can observe ~ this refers to home directory to user
+
+
 
 
 
