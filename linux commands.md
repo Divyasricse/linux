@@ -212,6 +212,9 @@ The tail command is used to display the last few lines of one or more text files
 here Ist i logged with my user account :user@host name 
 next i changes user with sudo su - vflaser:vflaser@host name
 after hostname we can observe ~ this refers to home directory to user
+note :cd ..--->moves back one step
+cd / --->moves to home directory
+we can't read a directory (cat /etc)
 
 
 
